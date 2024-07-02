@@ -1,4 +1,4 @@
-// day-1
+// DAY----1
 
 // // var bottle = "paani"
 // // let bottle = 'paani'
@@ -9,19 +9,34 @@
 // const letter3 = 'c'
 
 
-// const letter = ['a','b','c',15,true]
+// const letter = ['a','b','c',15,true] // collection of different data type value in singlr variable like array 
 
 // const name = "abcd"
 // const age = 15 
 // const address = 'efgh'
 
-// const me = {
+// const me = {          // collection of different type variable in single variable like object
 //     name : 'abcd',
 //     age : 15, 
 //     address : 'efgh'
 // }
 
-// day-2
+// DAY----2
+
+//  const days = [ 'Sunday' , 'Monday' , 'Tuesday' , 'Wednesday' ]
+// console.log(days[2])
+
+// days.shift()
+// console.log(days)
+
+// days.unshift("Saturday")
+// console.log(days)
+
+// let slicedDays = days.slice(1,3)
+// console.log(slicedDays)
+
+// days.splice( 3,1,'thursday' )
+// console.log(days)
 
 // const data = [1,2,3,4,5,6] //js array
 // data.splice(1,3,'hello','bye','world') //To change the data of array
@@ -85,6 +100,5 @@
 // datas.name.splice(0,3,1,2,3)
 // console.log(datas)
 
-//hello
 
 
