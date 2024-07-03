@@ -108,26 +108,26 @@
 
 // add(numbers)
 
-const Ob = {
-    status: 200,
-    message: "Code found",
-    code: [
-        {
-            _id: "668510da18d90581711b6292",
-            text: "test\n",
-            userId: "f959757",
-            title: "test",
-            ipAddress: "49.244.110.12",
-            createdAt: "2024-07-03T08:50:34.704Z"
+// const Ob = {
+//     status: 200,
+//     message: "Code found",
+//     code: [
+//         {
+//             _id: "668510da18d90581711b6292",
+//             text: "test\n",
+//             userId: "f959757",
+//             title: "test",
+//             ipAddress: "49.244.110.12",
+//             createdAt: "2024-07-03T08:50:34.704Z"
            
-        }
-    ]
-}
+//         }
+//     ]
+// }
 
-function abc(Ob){
-    console.log(Ob.code[0].userId)
-    console.log(Ob.code[0].title)
-    console.log(Ob.code[0].ipAddress)
-}
+// function abc(Ob){
+//     console.log(Ob.code[0].userId)
+//     console.log(Ob.code[0].title)
+//     console.log(Ob.code[0].ipAddress)
+// }
 
-abc(Ob)
+// abc(Ob)
