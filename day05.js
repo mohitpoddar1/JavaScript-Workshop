@@ -8,5 +8,5 @@ h1.textContent = 'Hello World'
 const h3 = document.getElementsByTagName('h3')[0]
 h3.textContent = 'Hello World'
 
-const test = document.getElementsByClassName("test")[0]
+const test = document.getElementById("test")
 test.textContent = "Hello World"
