@@ -1,6 +1,6 @@
 // DAY----2
 
-//  const days = [ 'Sunday' , 'Monday' , 'Tuesday' , 'Wednesday' ]
+ const days = [ 'Sunday' , 'Monday' , 'Tuesday' , 'Wednesday' ]
 // console.log(days[2])
 
 // days.shift()
@@ -13,7 +13,7 @@
 // console.log(slicedDays)
 
 // days.splice( 3,1,'thursday' )
-// console.log(days)
+// console.log(days) 
 
 // const data = [1,2,3,4,5,6] //js array
 // data.splice(1,3,'hello','bye','world') //To change the data of array
